@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Mail
+Flask-Login
+requests
+gunicorn
+pymysql
+sqlalchemy
+geocoder
+Flask-Testing
+gencoder
